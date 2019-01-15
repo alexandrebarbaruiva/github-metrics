@@ -33,3 +33,7 @@ Things to do to improve tool:
   - Commits x Date
 - Show collected info from all users on a single graphic 
   - Commits x Date
+
+### Interesting links
+
+- https://stackoverflow.com/questions/9058305/getting-attributes-of-a-class
