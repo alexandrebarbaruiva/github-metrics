@@ -25,6 +25,10 @@ Things to do to improve tool:
 
 #### Frontend
 
+[Chart.js](https://www.chartjs.org/)
+[Lines chart](https://www.chartjs.org/samples/latest/charts/line/basic.html)
+[Use Django with Chart.js](https://www.youtube.com/watch?v=B4Vmm3yZPgc)
+
 - [ ] Show collected info from user on a simple web page (raw info)
   - [ ] Amount of commits
   - [ ] Amount of PRs
