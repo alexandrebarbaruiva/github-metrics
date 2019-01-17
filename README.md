@@ -16,7 +16,7 @@ Things to do to improve tool:
 
 #### Backend
 
-[unix to utc timestamp](https://stackoverflow.com/questions/3682748/converting-unix-timestamp-string-to-readable-date)
+[UNIX to utc timestamp](https://stackoverflow.com/questions/3682748/converting-unix-timestamp-string-to-readable-date)
 
 - [ ] Choose organization to collect data
 - [X] Collect info (mainly commits) from all users on said organization [get_stats_contributors]
@@ -28,7 +28,9 @@ Things to do to improve tool:
 #### Frontend
 
 [Chart.js](https://www.chartjs.org/)
+
 [Lines chart](https://www.chartjs.org/samples/latest/charts/line/basic.html)
+
 [Use Django with Chart.js](https://www.youtube.com/watch?v=B4Vmm3yZPgc)
 
 - [ ] Show collected info from user on a simple web page (raw info)
