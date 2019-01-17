@@ -16,6 +16,8 @@ Things to do to improve tool:
 
 #### Backend
 
+[unix to utc timestamp](https://stackoverflow.com/questions/3682748/converting-unix-timestamp-string-to-readable-date)
+
 - [ ] Choose organization to collect data
 - [X] Collect info (mainly commits) from all users on said organization [get_stats_contributors]
   - [X] Added lines 
