@@ -14,7 +14,10 @@ class TestConfigRelated(unittest.TestCase):
         """
         Check if function gets other sectors from ini file
         """
-        self.assertIn("access_token", get_config(section="GITHUB", filename="sample.ini"))
+        self.assertIn(
+            "access_token",
+            get_config(section="GITHUB", filename="sample.ini")
+        )
 
     def test_get_config_no_file(self):
         """

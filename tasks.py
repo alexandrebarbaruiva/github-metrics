@@ -6,6 +6,7 @@ files = f"{main_file} {config_file}"
 test_file = "test.py"
 all_files = f"{files} {test_file}"
 
+
 @task
 def run(c):
     """ Runs main app """
