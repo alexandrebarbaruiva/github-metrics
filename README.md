@@ -1,14 +1,26 @@
-# github-metrics
+# Github-Metrics
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/700ee542b5ff919da2ff/maintainability)](https://codeclimate.com/github/alexandrebarbaruiva/github-metrics/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/700ee542b5ff919da2ff/test_coverage)](https://codeclimate.com/github/alexandrebarbaruiva/github-metrics/test_coverage)
+![Build Status](https://travis-ci.org/alexandrebarbaruiva/github-metrics.svg?branch=master)
 
 Repo for developing a tool to visualize Github metrics from developers
 
 ## Installing
 
+### Creating access to your account
 
+First create a token on [Github](https://github.com/settings/tokens),
+you only have to tick read privileges, no need to write. After the token has been created,
+download this repo, insert the value on `sample.ini` and rename file to `config.ini`.
+Now, if you don't have, install
+[Python 3.6.7 or higher](https://www.python.org/downloads/).
 
-## Setting up your environment for contributing
+### Setting up your environment
 
-
+After installing, all you have to do is create a virtual environment,
+activate the env and install everything on `requirements.txt` using
+`pip install requirements.txt` and run `inv run`. For more information, use `inv -l`.
 
 ## To Do
 
