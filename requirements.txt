@@ -1,7 +1,10 @@
-invoke
+coverage
+django
+djangorestframework
+django-filter
 green
+invoke
 pycodestyle
 pydocstyle
-coverage
-pytest
 PyGithub
+pytest
