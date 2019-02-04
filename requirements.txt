@@ -1,6 +1,7 @@
 coverage
 django
 djangorestframework
+django-debug-toolbar
 django-filter
 green
 invoke
