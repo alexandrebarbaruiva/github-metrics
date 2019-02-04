@@ -8,6 +8,18 @@ all_files = f"{files} {test_file}"
 
 
 @task
+def runserver(c):
+    """ Runs server app """
+    c.run(f"python3 dashboard/manage.py runserver")
+
+
+@task
+def migrate(c):
+    """ Migrate server app """
+    c.run(f"python3 dashboard/manage.py migrate")
+
+
+@task
 def run(c):
     """ Runs main app """
     c.run(f"python3 {main_file}")
