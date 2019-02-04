@@ -2,7 +2,7 @@
 
 <script>
 {% block jquery %}
-    var endpoint = "/api/chart/data/";
+    var endpoint = "/api/data/";
     var defaultData = [];
     var labels = [];
     $.ajax({
@@ -103,7 +103,7 @@
 {% block content %}
 
 <div class="row">
-    <div class="col-sm-12" url-endpoint="{% url 'api-data' %}">
+    <div class="col-sm-12">
         <h1>Dashboard</h1>
         <div class="col-sm-6 chart-container" style="position: relative; height:40vh; width:60vw">
             <canvas id="myChart"></canvas>
