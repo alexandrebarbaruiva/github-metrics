@@ -6,6 +6,8 @@
 
 Repo for developing a tool to visualize Github metrics from developers
 
+![Github Metrics App mock](https://github.com/alexandrebarbaruiva/github-metrics/blob/master/img/dashboard-mock.jpg)
+
 ## Installing
 
 ### Creating access to your account
