@@ -2,7 +2,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/700ee542b5ff919da2ff/maintainability)](https://codeclimate.com/github/alexandrebarbaruiva/github-metrics/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/700ee542b5ff919da2ff/test_coverage)](https://codeclimate.com/github/alexandrebarbaruiva/github-metrics/test_coverage)
-![Build Status](https://travis-ci.org/alexandrebarbaruiva/github-metrics.svg?branch=master)
+[![Build Status](https://travis-ci.org/alexandrebarbaruiva/github-metrics.svg?branch=master)](https://travis-ci.org/alexandrebarbaruiva/github-metrics)
 
 Repo for developing a tool to visualize Github metrics from developers
 
