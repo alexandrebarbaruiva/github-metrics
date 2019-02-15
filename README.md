@@ -41,6 +41,8 @@ Things to do to improve tool:
 
 #### Frontend
 
+[Bootstrap examples](https://getbootstrap.com/docs/4.0/examples/)
+
 [Chart.js](https://www.chartjs.org/)
 
 [Lines chart](https://www.chartjs.org/samples/latest/charts/line/basic.html)

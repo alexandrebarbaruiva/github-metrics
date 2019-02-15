@@ -19,7 +19,7 @@ from django.urls import path, include
 
 import debug_toolbar
 
-from .views import HomeView, get_data, ChartData
+from .views import HomeView, ChartData
 
 
 urlpatterns = [
